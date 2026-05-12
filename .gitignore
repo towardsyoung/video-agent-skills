@@ -1,0 +1,15 @@
+.DS_Store
+*.log
+.env
+.env.*
+
+# Local editor and agent state
+.idea/
+.vscode/
+.codex/
+
+# Dependency/build output if examples or helper tooling are added later
+node_modules/
+dist/
+build/
+coverage/

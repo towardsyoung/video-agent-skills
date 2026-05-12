@@ -1,0 +1,8 @@
+interface:
+  display_name: "Storyboard Lite"
+  short_description: "Generate storyboard tables from scripts"
+  default_prompt: "Use $storyboard-lite to generate a storyboard table from this script."
+
+policy:
+  allow_implicit_invocation: true
+
